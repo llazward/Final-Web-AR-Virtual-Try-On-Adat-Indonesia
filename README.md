@@ -9,7 +9,7 @@ accessible experience for exploring Indonesian traditional clothing.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 **Web AR Virtual Try-On Adat Indonesia** is an Augmented Reality-based
 web application that enables users to experience traditional Indonesian
@@ -24,7 +24,7 @@ requiring users to install a dedicated mobile application.
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 The main objectives of this project are:
 
@@ -38,7 +38,7 @@ The main objectives of this project are:
 
 ---
 
-## ✨ Main Features
+## Main Features
 
 ### 🌐 Web-Based AR
 
@@ -81,7 +81,7 @@ The application presents detailed project information including:
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 The system is designed using an end-to-end architecture that connects
 the web interface with the Augmented Reality processing flow.
