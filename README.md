@@ -1,17 +1,108 @@
-# React + Vite
+# Web AR Virtual Try-On Adat Indonesia
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Web-based Augmented Reality (AR) application for virtually trying on
+traditional Indonesian clothing through a web browser.
 
-Currently, two official plugins are available:
+This project was developed as a Final Project (Tugas Akhir) with the
+objective of utilizing Web AR technology to provide an interactive and
+accessible experience for exploring Indonesian traditional clothing.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📌 Project Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Web AR Virtual Try-On Adat Indonesia** is an Augmented Reality-based
+web application that enables users to experience traditional Indonesian
+clothing virtually through a browser.
 
-## Expanding the ESLint configuration
+The application is designed to provide an interactive digital experience
+that connects Indonesian cultural heritage with modern web-based
+Augmented Reality technology.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# Progress-TA-WebAR" 
+The system focuses on delivering an accessible AR experience without
+requiring users to install a dedicated mobile application.
+
+---
+
+## 🎯 Project Objectives
+
+The main objectives of this project are:
+
+- Implement Augmented Reality technology through a web-based platform.
+- Provide a virtual try-on experience for Indonesian traditional clothing.
+- Introduce Indonesian traditional clothing through an interactive
+  digital experience.
+- Provide a user-friendly interface for accessing the AR experience.
+- Integrate the AR experience into a structured web application.
+- Demonstrate the implementation of an end-to-end Web AR system.
+
+---
+
+## ✨ Main Features
+
+### 🌐 Web-Based AR
+
+Access the Augmented Reality experience directly through a web browser.
+
+### 👕 Virtual Try-On
+
+Users can experience Indonesian traditional clothing virtually through
+the AR interface.
+
+### 🇮🇩 Indonesian Cultural Content
+
+The application presents traditional Indonesian clothing as part of an
+interactive digital cultural experience.
+
+### 📱 Responsive Interface
+
+The web interface is designed to provide an accessible experience across
+different screen sizes.
+
+### 🧩 Interactive System Architecture
+
+The project includes a structured technical architecture and data-flow
+approach for describing the interaction between the application
+components.
+
+### 📖 Project Information
+
+The application presents detailed project information including:
+
+- System overview
+- Problem identification
+- Technical role and responsibilities
+- Technical approach
+- System architecture
+- Technical challenges
+- Engineering solutions
+- Technologies used
+- Project outcomes
+
+---
+
+## 🏗️ System Architecture
+
+The system is designed using an end-to-end architecture that connects
+the web interface with the Augmented Reality processing flow.
+
+The architecture is organized into several stages representing the
+application's data flow and technical processing pipeline.
+
+```text
+User
+  │
+  ▼
+Web Interface
+  │
+  ▼
+AR Experience
+  │
+  ▼
+AR Processing
+  │
+  ▼
+Virtual Try-On
+  │
+  ▼
+User Interaction
